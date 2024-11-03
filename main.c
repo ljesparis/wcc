@@ -107,6 +107,7 @@ int isWhiteSpace(const char c)
     }
 }
 
+// i'm only taking into account utf-8 encoding
 int computeWords(const char* buffer)
 {
     const char *ptr = buffer;
