@@ -155,6 +155,10 @@ int main(int argc, char **argv)
         printf("%s\n", HELP_TEXT);
         return 1;
     }
+
+    int totalLinesCount = 0;
+    int totalWordCount = 0;
+    int totalBytesCount = 0;
     for (int i = 1; i < argc; i++)
     {
         char* filename = argv[i];
@@ -173,12 +177,21 @@ int main(int argc, char **argv)
             int bytesCount = computeBytes(buffer);
             printf("     %d     %d    %d %s\n", linesCount, wordCount, bytesCount, file->filename);
 
+            totalLinesCount += linesCount;
+            totalWordCount += wordCount;
+            totalBytesCount += bytesCount;
+
             close_file(file);
         }
         else
         {
             printf("wcc: %s: open: No Sock file or directory\n", filename);
         }
+    }
+
+    if (argc > 2)
+    {
+        printf("     %d     %d    %d total\n", totalLinesCount, totalWordCount, totalBytesCount);
     }
     return 0;
 }
