@@ -109,41 +109,27 @@ int isWhiteSpace(const char c)
 
 int computeWords(const char* buffer)
 {
+    const char *ptr = buffer;
     int wordCount = 0;
-    short wordFound = 0;
     while(*buffer != EOF)
     {
         if (*buffer <= 0x7F)
         {
-            if (isWhiteSpace(*buffer))
-            {
-                if (wordFound)
-                {
-                    wordCount ++;
-                    wordFound = 0;
-                }
-            }
-            else 
-            {
-                wordFound = 1;
-            }
+            // compute the current index where we're at. This is done to
+            // ignore the first line if it is only a new line.
+            //
+            // right now this is what it came to my mind :/ 
+            int index = buffer - ptr;
+            if (isWhiteSpace(*buffer) && index > 0 && !isWhiteSpace(*(buffer - 1)))
+                wordCount ++;
             buffer++;
         }
         if ((*buffer & 0xE0) == 0xC0)
-        {
             buffer += 2;
-            wordFound = 1;
-        }
         if ((*buffer & 0xF0) == 0xE0)
-        {
             buffer += 3;
-            wordFound = 1;
-        }
         if ((*buffer & 0xF8) == 0xF0)
-        {
             buffer += 4;
-            wordFound = 1;
-        }
     }
     return wordCount;
 }
