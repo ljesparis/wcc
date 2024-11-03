@@ -93,28 +93,39 @@ int computeNewLines(const char* buffer)
     return newLines;
 }
 
+int isWhiteSpace(const char c)
+{
+    switch(c)
+    {
+        case ' ':
+        case '\n':
+        case '\t':
+        case '\r':
+            return 1;
+        default:
+            return 0;
+    }
+}
+
 int computeWords(const char* buffer)
 {
     int wordCount = 0;
     short wordFound = 0;
-    while(*buffer)
+    while(*buffer != EOF)
     {
         if (*buffer <= 0x7F)
         {
-            switch(*buffer)
+            if (isWhiteSpace(*buffer))
             {
-                case ' ':
-                case '\n':
-                case '\t':
-                case '\r':
-                    if (wordFound)
-                    {
-                        wordCount ++;
-                        wordFound = 0;
-                    }
-                    break;
-                default:
-                    wordFound = 1;
+                if (wordFound)
+                {
+                    wordCount ++;
+                    wordFound = 0;
+                }
+            }
+            else 
+            {
+                wordFound = 1;
             }
             buffer++;
         }
