@@ -1,0 +1,114 @@
+Have you always wanted to put your passion for education to use on the job? Would you like to work with an incredible team making an impact on learning around the world? If you answered yes, we can't wait to meet you!
+
+
+
+And just who are we? Edpuzzle is a leading edtech company with offices in San Francisco and Barcelona and nearly 10 years of history helping teachers find and create exciting, interactive video lessons. Over 80% of U.S. schools and millions of teachers and students in 190+ countries around the world are already using Edpuzzle to make education more equitable and engaging.
+
+
+
+About the role:
+
+We’re looking for our next DevOps Engineer to join the Security and Infrastructure team in Spain. As a DevOps Engineer, you will enhance development pipelines and infrastructure design, as well as ensure new features development reach the end user. You will be an active member on all technical decisions, working closely with the Engineering team. If you’re looking for a meaningful role on a collaborative team, you’ll feel right at home with us.
+
+
+
+You’ll also have the opportunity to contribute to our product and our team development, be a part of diverse projects, and stay up to date with the latest software technologies. In the process, you’ll be challenged daily, learn constantly, see the impact of your opinions and work, and grow as a DevOps Engineer.
+
+
+
+What technologies will you find?
+
+Technically speaking, our product is written in JavaScript and Node.js, and data is stored on MongoDB, ElasticSearch and Redis. We’re fully hosted on AWS which we also use to store, encode, and stream our own pool of videos. We are continuously improving our release pipeline with CI/CD and Infrastructure as Code, using technologies like GitHub Actions, CloudFormation and CDK.
+
+
+
+Wondering what it’s like to work at Edpuzzle?
+
+Picture a place where you can connect with your teammates, whether remotely or in person, whenever you need support. A place where one day you're helping shape one of the biggest edtech platforms in the world, and the next day you're doing a teambuilding activity with your coworkers. A place where everyone has been selected because they're the best at what they do, and where your manager and team trust your decisions fully. A place where you're encouraged to learn and grow because education is the cornerstone of everything we do. Check out the job details below to see if Edpuzzle could be the right fit for you!
+
+
+
+About the job:
+
+We want to hear your voice! Be part of a dynamic multidisciplinary team where everyone can share new ideas, take initiative, and be a self-starter when coming up with creative options to deliver solutions.
+Design cloud infrastructure that is secure, scalable, and highly available on AWS.
+Provision, configure and maintain cloud infrastructure defined as a code.
+Maintain and improve our IT infrastructure, monitoring tools, and the current delivery pipeline.
+Perform root cause analysis for production errors and infrastructure issues.
+Implement automations to achieve continuous integration and continuous deployment.
+Perform rotatory on-call service.
+Have a good understanding of the product functionalities and work closely with the Engineering teams on the building of new features.
+Stay on top of industry best practices and trends, as well as changes to compliance requirements.
+Use your knowledge of Cloud services and DevOps best practices to deliver value quickly and safely.
+Seek out opportunities to learn, share and grow continuously.
+
+
+About you
+
+You’re excited by the opportunity of working in education.
+You make all your technology decisions with the final user in mind.
+You love learning and mastering technologies.
+You can work independently, and manage goals and deadlines effectively.
+You have an excellent ability to communicate your ideas, regardless of the audience.
+You're open-minded about technologies and development
+
+
+Requirements
+
+2 or more years of experience in DevOps Engineering, Site Reliability Engineering, Cloud System Administration or Cloud Infrastructure Engineering for a high-traffic web-based product.
+Good knowledge of Amazon Web Services (AWS).
+Knowledge of Infrastructure as Code (CDK, CloudFormation, Terraform).
+Programming background and are familiar with coding principles in JavaScript, TypeScript or Node.js
+Experience with software release management and deployment pipelines (Git, CI/CD).
+Experience implementing infrastructure projects with zero downtime for a high-traffic web-based product.
+Comfortable communicating in English within an international and multicultural team.
+Based in Spain and have a work permit to work in Spain.
+
+
+Bonus skills:
+
+Experience working closely with Engineering and Product teams in the implementation of new features
+NoSQL database administration, such as MongoDB.
+Some of these AWS services: Elastic Beanstalk, Lambda, S3, Step Functions, Batch, WAF, CloudFormation, CDK.
+Monitoring tools (AWS CloudWatch, New Relic, Datadog, OpenTelemetry or Prometheus).
+GitHub actions.
+Kubernetes and Docker.
+Other cloud providers such as Azure or Google Cloud Platform.
+… or another amazing skill you bring to the table that we haven’t thought of yet!
+
+
+What’s it like to work remotely?
+
+Work from the comfort of your own home.
+Use the Edpuzzle office as much or as little as you like.
+Meet with your manager and team via video calls on Google Meet or Slack.
+Connect with coworkers via Slack (with channels for work and for fun!).
+To enjoy our remote work policy, you’ll need high-speed internet access.
+
+
+What will you find if you join us?
+
+Competitive salary between €‎39K – €‎53K based on your professional experience
+Yearly salary review based on performance
+On-call compensation
+Training and development opportunities
+Free private health insurance policy with AXA
+Meal allowance with Cobee: an annual budget of €2000 to spend on the restaurants and food delivery services you like the most
+Flexible remuneration: you’ll be able to include your monthly expenses in public transport, childcare, and health insurance of immediate family members (spouse and/or children) into your payroll
+24 paid holidays plus December 24th and 31st
+Flexible working hours and reduced working time on Fridays
+Remote-first: Feel free to work 100% remotely or use the Barcelona office whenever you want, for the best of both worlds!
+Free coffee, snacks, and drinks in the Barcelona office
+Teambuilding events during working hours
+Incredible opportunity to grow, learn, and build lifetime bonds with other passionate people
+
+
+Edpuzzle is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws.
+
+
+
+This policy applies to all employment practices within our organization, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship. Edpuzzle makes hiring decisions based solely on qualifications, merit, and business needs at the time.
+
+
+
+References from previous employers will be requested from candidates during the selection process. If you'd like to be considered for this position, please apply below. We look forward to hearing from you!

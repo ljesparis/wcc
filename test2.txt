@@ -1,0 +1,91 @@
+Do you want to help us shape what the future of work will look like and how it will best embrace our life's aspirations? If this sounds like a journey you want to embark on, we may have the right role for you!PayFit is an intuitive cloud-based payroll and employee management solution designed specifically for SMBs. Since 2015, we have set ourselves a mission to simplify payroll for SMBs and enable employers and employees to grow together. We are a European company operating from 3 main countries (France, Spain, and the UK) where we are supporting over 10,000 clients.
+
+Creating a fulfilling work environment and culture is also a core mission at PayFit, and our day-to-day work philosophy is reflected in our four values:
+
+Care: We genuinely care for others whoever they are, whatever they think.
+
+Excellence: We aim to improve and achieve better results every day.
+
+Humility : Staying humble and exchanging transparent feedback helps us to grow and improve.
+
+Passion: We are the architects of PayFit's success.
+
+A key part of our culture, and essential for our success, is also improving the diversity of our teams and building an inclusive culture where you can be yourself at work.
+
+This is why our recruitment focuses on the skills you demonstrate, and not only on your academic background or previous professional experiences. At PayFit we understand that you can gain applicable skills through a variety of life experiences and we are interested in knowing them, too.
+
+Location :
+
+Flexible location: work remotely from anywhere in France or Spain
+
+About the role :
+
+Your mission will be to contribute to the whole development process, from system design to delivery and monitoring.
+
+The Time On team is in charge of managing employees' time at work: that is, planning when and where people will be working, allocating available employees to different work positions, and tracking employees' working time.
+
+Our current challenges are:
+
+ Migrating our existing time-tracking system to our new event-driven platform and extending it to support new features that will help us open new markets
+ Develop a new time planning module from the ground up to grow our offer into critical markets like hotels, coffee shops, and restaurants.
+
+There are a lot of exciting opportunities ahead, both in terms of product and tech!
+
+This role is for you if :
+
+You have 4+ years of experience in SW Engineering 
+You are comfortable with Typescript, Node.js, React and Javascript ecosystem overall
+You are comfortable with AWS services, especially with serverless components (Lambda, Step functions, workflow orchestration)
+You are comfortable with Infrastructure as Code and deploying different kinds of projects
+You can write RFCs, discuss them, and reach conclusions
+You are a Problem solver: You are a pragmatic and product-driven engineer who is interested in solving problems and delivering value while taking into account business tech tradeoffs.
+You are a Team player: You have good communication skills, are comfortable working in a partially remote team, and can easily work with non-technical colleagues
+You like using Best Practices: You are an organized, rigorous engineer who follows best practices regarding code quality, clean architecture, testing, monitoring, code reviews, and CI/CD
+You are fluent in English 
+
+It would be great if also :
+
+ You have an interesting hands-on experience with Domain-Driven design and Event-Driven Architecture. Able to help the team transition toward the new architectural vision. You like to seek opportunities and build strategie 
+You are an Impact Maker: You are creative, passionate about building things, and want to help build an innovative product used by thousands of users
+
+If you think you would be a good fit even if you don't meet 100% of the requirements, we would love to hear from you!
+
+Your Future Team:
+
+A Time On squad is a team of 3 Software Engineers with an Engineering Manager leading the team, and a Product Manager working on their missions together. Your future manager, Alfonso has extensive experience in leading the development of complex technical projects, and will help you evolve in your role!
+
+Interview process :
+
+ Initial Discovery Call: A Talent Acquisition representative will assess your qualifications and fit for the role - 30min
+ Interview with an Engineering Manager: You will have a conversation with your future manager to further discuss your experience and skills - 45min
+ Technical Interview that comprises of 2 parts:
+1) Coding Interview: You will be assessed on fundamental knowledge, including data structures and algorithms. This may be conducted through at-home coding exercises or live coding - 60/90min
+2) System design Interview: You will participate in a system design interview, focusing on distributed systems and web architecture - 60 min
+ Interviews with your Team: You will meet with the rest of the team members (a Product Manager and a Product Designer) to get to know them and further assess your fit within the organization - 30-45min
+ Interview with the Engineering Director of the Tribe to discuss your understanding of our role and challenges and your potential impact in it - 30min
+
+👉 Background Check (ISO27001 certification): identity, diploma, and past professional experiences will be checked after the offer.
+
+What We Offer
+
+Flexibility: We believe it is key to produce your best work and to be fulfilled. We therefore offer the possibility to work away from our main offices, within France/UK/Spain; as well as abroad for a defined period. Further requirements may apply depending on the role and your overall experience.
+
+Learning & Development: In PayFit we have a great learning platform where you can learn new skills every day with the support of our company. We also have English language courses to improve your business communication vocabulary and get to the next level.
+
+Career Development: We want you to progress and be free to choose which direction you want to grow. There are also opportunities for internal moves.
+
+Health promotion: A Gym at our Paris office and a GymLib subscription with preferrential rate. 4 paid sessions with a mental health practitioner and online support with Moka.Care.
+
+Health insurance: Mutuelle Henner (60% covered by PayFit).
+
+Transportation: 50% covered for your public transportation card for those living within Ile de France. A budget to travel to the office for those who live outside of it.
+
+Meals: A restaurant card with our partner Swile ( 9€ per workday).
+
+Home office budget: 150€ per year to help you get set up in the best conditions. A MacBook is our standard working tool.
+
+Parental support: 20 weeks maternity leave covered by PayFit and 4 weeks leave for the second parent.
+
+Time off: 25 days of holidays + RTT days (depending on the contract).
+
+Disability Inclusion: All of our positions are open to any person living with a disability. To guarantee equal treatment and opportunities, we will take, based on individual needs, appropriate measures to adapt the work conditions of PayFiters with disabilities, and if needed also during the recruitment process. Please let us know what you need and we will do our best to accommodate!
