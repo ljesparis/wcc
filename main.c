@@ -85,7 +85,7 @@ int close_file(struct File* file)
 int computeNewLines(const char* buffer)
 {
     int newLines = 0;
-    while(*buffer)
+    while(*buffer != EOF)
     {
         if (*buffer == '\n') newLines++;
         buffer++;
@@ -189,7 +189,7 @@ int main(int argc, char **argv)
         }
     }
 
-    if (argc > 1)
+    if (argc > 2)
     {
         printf("     %d     %d    %d total\n", totalLinesCount, totalWordCount, totalBytesCount);
     }
