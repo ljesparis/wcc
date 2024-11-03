@@ -37,7 +37,7 @@
 //   wcc: file_that_does_not_exists.txt: open: No Sock file or directory
 //   20  100 200 total
 
-const char * HELP_TEXT = "usage: wcc [-Lclmw] [file ...]";
+const char * HELP_TEXT = "usage: wcc [file ...]";
 
 // File wrapper
 struct File
@@ -189,7 +189,7 @@ int main(int argc, char **argv)
         }
     }
 
-    if (argc > 2)
+    if (argc > 1)
     {
         printf("     %d     %d    %d total\n", totalLinesCount, totalWordCount, totalBytesCount);
     }
